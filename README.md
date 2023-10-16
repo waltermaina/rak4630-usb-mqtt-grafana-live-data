@@ -23,7 +23,7 @@ This project showcases the integration of RAK4630, USB communication, MQTT proto
 ## Setup
 
 1. Connect the RAK4630 and RAK1906 modules appropriately.
-2. Compile and load the Arduino script into the RAK4630 module.
+2. Upload the Arduino script into the RAK4630 module.
 3. Build the java application using Netbeans and run the resulting jar file.
 4. Install and set up Grafana to subscribe to the MQTT broker and display the data in gauges.
 5. MQTT and Grafana were made to run on localhost to simplify the project.
